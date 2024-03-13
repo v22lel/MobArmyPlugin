@@ -1,0 +1,15 @@
+name: MobArmy
+version: '${project.version}'
+main: dev.mv.mobarmy.MobArmyMod
+api-version: '1.20'
+commands:
+  timer:
+    description: "access to all commands using the timer"
+  team:
+    description: "access to the them commands"
+  spawn:
+    description: "set either the mob or player spawnpoint for the final fight for each team!"
+  fight:
+    description: "Starts the final fight!"
+  arena:
+    description: "Create your arena!"

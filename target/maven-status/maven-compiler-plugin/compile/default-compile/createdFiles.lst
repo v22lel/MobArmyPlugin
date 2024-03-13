@@ -1,0 +1,14 @@
+dev\mv\mobarmy\EntityData.class
+dev\mv\mobarmy\Utils.class
+dev\mv\mobarmy\Arena.class
+dev\mv\mobarmy\TeamCommand.class
+dev\mv\mobarmy\ArenaCommand.class
+dev\mv\mobarmy\Teams.class
+dev\mv\mobarmy\Timer.class
+dev\mv\mobarmy\SpawnCommand.class
+dev\mv\mobarmy\Fight.class
+dev\mv\mobarmy\MobArmy.class
+dev\mv\mobarmy\Worlds.class
+dev\mv\mobarmy\FightCommand.class
+dev\mv\mobarmy\MobArmyMod.class
+dev\mv\mobarmy\PluginListener.class
